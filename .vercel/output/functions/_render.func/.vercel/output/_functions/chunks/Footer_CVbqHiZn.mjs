@@ -312,7 +312,7 @@ createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"releases":{"type":"content","entries":{"1_0_1":"/src/content/releases/1_0_1.md","1_2_0":"/src/content/releases/1_2_0.md","1_3_0":"/src/content/releases/1_3_0.md","1_3_1":"/src/content/releases/1_3_1.md","1_3_2":"/src/content/releases/1_3_2.md","1_3_3":"/src/content/releases/1_3_3.md","1_3_5":"/src/content/releases/1_3_5.md","1_3_4":"/src/content/releases/1_3_4.md","1_4_0":"/src/content/releases/1_4_0.md","1_4_1":"/src/content/releases/1_4_1.md","1_4_2":"/src/content/releases/1_4_2.md","1_5_0":"/src/content/releases/1_5_0.md","1_6_0":"/src/content/releases/1_6_0.md","1_7_0":"/src/content/releases/1_7_0.md","1_7_1":"/src/content/releases/1_7_1.md","1_7_2":"/src/content/releases/1_7_2.md","1_4_3":"/src/content/releases/1_4_3.md"}}};
+lookupMap = {"releases":{"type":"content","entries":{"1_0_1":"/src/content/releases/1_0_1.md","1_2_0":"/src/content/releases/1_2_0.md","1_3_0":"/src/content/releases/1_3_0.md","1_3_2":"/src/content/releases/1_3_2.md","1_3_3":"/src/content/releases/1_3_3.md","1_3_5":"/src/content/releases/1_3_5.md","1_3_1":"/src/content/releases/1_3_1.md","1_4_0":"/src/content/releases/1_4_0.md","1_3_4":"/src/content/releases/1_3_4.md","1_4_1":"/src/content/releases/1_4_1.md","1_4_2":"/src/content/releases/1_4_2.md","1_7_2":"/src/content/releases/1_7_2.md","1_7_1":"/src/content/releases/1_7_1.md","1_5_0":"/src/content/releases/1_5_0.md","1_7_0":"/src/content/releases/1_7_0.md","1_6_0":"/src/content/releases/1_6_0.md","1_4_3":"/src/content/releases/1_4_3.md"}}};
 
 new Set(Object.keys(lookupMap));
 
