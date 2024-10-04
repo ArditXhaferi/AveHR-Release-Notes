@@ -11,6 +11,7 @@
     "deploy": "astro build && npx astro deploy"
   },
   "dependencies": {
+    "@astrojs/vercel": "^7.8.1",
     "astro": "^4.15.11",
     "sass": "^1.79.4",
     "sharp": "^0.33.3"
